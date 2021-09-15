@@ -66,7 +66,7 @@ def cartoonify(ImagePath):
         ax.imshow(images[i], cmap='gray')
     #savebuttoncode
     plt.show()
-    asdasdasdasd
+
 
 
 
